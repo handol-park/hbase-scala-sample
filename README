@@ -1,0 +1,3 @@
+export hbase_zookeeper_quorum=zk1,zk2,zk3
+
+mvn scala:run -DmainClass=me.handol.scala.HBaseSample
